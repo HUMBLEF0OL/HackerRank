@@ -12,4 +12,4 @@ Certificate can be viewed [here](https://www.hackerrank.com/certificates/c6fb772
 - [How_will_you_compare](https://github.com/HUMBLEF0OL/HackerRank/blob/main/Certificates/Java/How_will_you_compare.java)
 
 ## Certificate
-![certificate](certificate.png)
+![certificate](https://github.com/HUMBLEF0OL/HackerRank/blob/main/Certificates/Java/java.png)
