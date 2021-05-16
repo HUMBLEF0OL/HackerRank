@@ -8,8 +8,8 @@ on __16th May 2021__.
 Certificate can be viewed [here](https://www.hackerrank.com/certificates/c6fb772a95c1)
 
 ## Programs 
-- [GCD SubSequence](src/GCDSubSequence.java)
-- [Marketing Strategy](src/MarketingStrategy.java)
+- [Adder_class](https://github.com/HUMBLEF0OL/HackerRank/blob/main/Certificates/Java/Adder_class.java)
+- [How_will_you_compare](https://github.com/HUMBLEF0OL/HackerRank/blob/main/Certificates/Java/How_will_you_compare.java)
 
 ## Certificate
 ![certificate](certificate.png)
